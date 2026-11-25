@@ -1,0 +1,39 @@
+{
+  "name": "pro-skills",
+  "version": "0.1.0",
+  "description": "Pro skills for Claude Code and Codex: brainstorming, planning, plan stress-testing, and verified execution.",
+  "author": {
+    "name": "hacker4ofakind",
+    "url": "https://github.com/hacker4ofakind"
+  },
+  "homepage": "https://github.com/hacker4ofakind/pro-skills",
+  "repository": "https://github.com/hacker4ofakind/pro-skills",
+  "license": "MIT",
+  "keywords": [
+    "brainstorming",
+    "skills",
+    "planning",
+    "workflow"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Pro Skills",
+    "shortDescription": "Brainstorming, planning, and verified execution workflows",
+    "longDescription": "Guides agent work through brainstorming, implementation planning, multi-lens plan stress-testing, plan execution, and verification before completion.",
+    "developerName": "hacker4ofakind",
+    "category": "Developer Tools",
+    "capabilities": [
+      "Interactive",
+      "Read",
+      "Write"
+    ],
+    "defaultPrompt": [
+      "I've got an idea for something I'd like to build.",
+      "Let's add a feature to this project."
+    ],
+    "websiteURL": "https://github.com/hacker4ofakind/pro-skills",
+    "privacyPolicyURL": "https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement",
+    "termsOfServiceURL": "https://docs.github.com/en/site-policy/github-terms/github-terms-of-service",
+    "screenshots": []
+  }
+}

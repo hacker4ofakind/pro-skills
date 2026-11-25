@@ -1,0 +1,5 @@
+.worktrees/
+.claude/
+.pro-skills/
+.DS_Store
+node_modules/

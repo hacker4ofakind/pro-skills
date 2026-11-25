@@ -1,0 +1,20 @@
+{
+  "name": "pro-skills-dev",
+  "interface": {
+    "displayName": "Pro Skills Dev"
+  },
+  "plugins": [
+    {
+      "name": "pro-skills",
+      "source": {
+        "source": "url",
+        "url": "./"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    }
+  ]
+}

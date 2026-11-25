@@ -1,0 +1,18 @@
+{
+  "name": "pro-skills-dev",
+  "description": "Development marketplace for the pro-skills plugin",
+  "owner": {
+    "name": "hacker4ofakind"
+  },
+  "plugins": [
+    {
+      "name": "pro-skills",
+      "description": "Pro skills for Claude Code and Codex: brainstorming, planning, plan stress-testing, and verified execution",
+      "version": "0.1.0",
+      "source": "./",
+      "author": {
+        "name": "hacker4ofakind"
+      }
+    }
+  ]
+}
